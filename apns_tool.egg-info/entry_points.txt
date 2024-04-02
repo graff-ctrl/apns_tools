@@ -1,3 +1,0 @@
-[console_scripts]
-apns_tool = apns_tool.main:main
-
