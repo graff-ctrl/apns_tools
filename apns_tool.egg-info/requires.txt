@@ -1,5 +1,5 @@
 setuptools
-cryptography
+cryptography==38.0.4
 pyOpenSSL==21.0.0
 pip
 pycparser
